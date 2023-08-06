@@ -1,4 +1,4 @@
-# Analise Fatorial Exploratória
+# Analise Fatorial Exploratória utilizando a linguagem R
 <p>
   Neste projeto utilizamos as respostas de mais de mil participantes ao Questionário de Estilos de Humor proposto por Rod Martin. O modelo de Martin considera que existem quatro tipos de humor: afiliativo, otimista, agressivo e autodepreciativo.
 </p>
