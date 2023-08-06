@@ -1,1 +1,1 @@
-# AnaliseFatorialExploratoria
+# Analise Fatorial Exploratoria
