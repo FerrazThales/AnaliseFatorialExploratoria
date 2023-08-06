@@ -1,6 +1,6 @@
 # Analise Fatorial Exploratória
 
-<img src="https://github.com/FerrazThales/AnaliseFatorialExploratoria/blob/main/BaseDeDados/mr4.png" width="400" height="400">
+<img src="https://github.com/FerrazThales/AnaliseFatorialExploratoria/blob/main/BaseDeDados/mr4.png" width="800" height="400">
 Neste projeto utilizamos as respostas de mais de mil participantes ao Questionário de Estilos de Humor proposto por Rod Martin. O modelo de Martin considera que existem quatro tipos de humor: afiliativo, otimista, agressivo e autodepreciativo.
 
 Mas como ele chegou nesta estrutura de quatro estilos? Ele utilizou uma técnica chamada Análise Fatorial. Esta técnica é muito utilizada em pesquisas científicas para encontrar as relações subjacentes, os conceitos que estão por trás dos dados.
